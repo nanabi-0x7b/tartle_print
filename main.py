@@ -84,4 +84,4 @@ turtle.penup()
 
 TurtlePrint("img_file/0x7bcat.png",faster=True).run()
 
-input("出力完了")
+input("end")
